@@ -6,21 +6,21 @@ Built using the **UCI Machine Learning Spam Dataset**, the project involves key 
 
 ---
 
-## ✅ Project Progress & Tasks
+## ✅ Project steps
 
-### 1. 📊 Data Cleaning & Exploratory Data Analysis (EDA) – ✅ Completed  
+### 1. 📊 Data Cleaning & Exploratory Data Analysis (EDA)
 - Loaded and explored the dataset  
 - Checked for missing/null values  
 - Visualized spam vs. non-spam class distribution  
 - Analyzed word frequency and message lengths
 
-### 2. 🧹 Text Preprocessing – ✅ Completed  
+### 2. 🧹 Text Preprocessing 
 - Converted text to lowercase  
 - Removed punctuation, stopwords, and special characters  
 - Applied tokenization and lemmatization  
 - Transformed text into numerical format using **TF-IDF Vectorization**
 
-### 3. 🤖 Model Training & Evaluation – ✅ Completed  
+### 3. 🤖 Model Training & Evaluation 
 - Split data into training and testing sets  
 - Trained multiple models: **Naive Bayes**, **Logistic Regression**, and **SVM**  
 - Evaluated using **Accuracy**, **Precision**, **Recall**, and **F1 Score**  
